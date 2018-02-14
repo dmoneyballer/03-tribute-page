@@ -1,0 +1,17 @@
+
+.background-color{
+  background-color: silver;
+}
+
+.flexContainer{
+border: 1px solid firebrick;
+   height: 300px;
+   display: flex;
+   flex-wrap: wrap
+}
+.flexItem{
+border: 1px solid teal;
+ background-color: lawngreen;
+ height: 50px;
+ width: 50px;
+}
